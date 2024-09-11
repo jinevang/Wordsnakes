@@ -1,2 +1,3 @@
 # Wordsnakes
 Hello.
+Hi.
